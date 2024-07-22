@@ -1,7 +1,9 @@
 #include <stdio.h>
 
+#include "hello/hello.h"
+
 int main(void)
 {
-	printf("hello world\n");
+	func();
 	return 0;
 }
